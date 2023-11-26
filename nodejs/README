@@ -1,0 +1,4 @@
+node -v
+    v20.10.0
+npm install
+node app
